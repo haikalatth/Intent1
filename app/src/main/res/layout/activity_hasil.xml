@@ -7,11 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="id.sch.smktelkom_mlg.learn.intent1.HasilActivity">
+    tools:context="id.sch.smktelkom_mlg.learn.intent1.HasilActivity"
+    android:orientation="vertical">
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Kembali"
-        android:id="@+id/buttonBack" />
 </LinearLayout>
