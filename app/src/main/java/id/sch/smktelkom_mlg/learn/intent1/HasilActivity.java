@@ -22,7 +22,7 @@ public class HasilActivity extends AppCompatActivity {
         String nama = getIntent().getStringExtra(MainActivity.NAMA);
         int umur = getIntent().getIntExtra(MainActivity.UMUR,0);
 
-        int yearNow = Calendar.getInstance().get(Calendar.YEAR);
+        int yearNow = java.util.Calendar.getInstance().get(java.util.Calendar.YEAR);
         int tahunLahir = yearNow - umur;
 
         TextView tvHasil = (TextView) findViewById(R.id.textViewHasil);
