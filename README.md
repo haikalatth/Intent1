@@ -8,7 +8,7 @@ Nama    : Muhammad Haikal Atthoriq
 
 Kelas   : XIRPL3 
 
-Absen   : 20 
+Absen   : 21 
 
 NIS     : 4789/1488.070 
 
